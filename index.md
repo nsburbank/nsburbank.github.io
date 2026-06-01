@@ -1,4 +1,6 @@
-# Catalog
+---
+title: Catalog
+---
 
 ## Test Results
 
