@@ -1,5 +1,5 @@
 ---
-title: Catalog
+title: Niles Burbank - Assorted AI Content
 ---
 
 ## Test Results
