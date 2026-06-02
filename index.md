@@ -1,5 +1,5 @@
 ---
-title: Niles Burbank - Assorted AI Content
+title: Niles Burbank Assorted AI Content
 ---
 
 ## Test Results
