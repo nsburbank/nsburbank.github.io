@@ -4,5 +4,5 @@ title: Niles Burbank - Assorted AI Content
 
 ## Test Results
 
-- Framework
+- [Inference Performance on Strix Halo](framework.md)
 
