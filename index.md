@@ -10,7 +10,7 @@ title: Niles Burbank Assorted AI Content
 
 ### ROCm Resources (mostly specific to Strix Halo APUs)
 
-[The State of Flash Attention on ROCm]( https://zdtech.substack.com/p/the-state-of-flash-attention-on-rocm)
+[The State of Flash Attention on ROCm]( https://zdtech.substack.com/p/the-state-of-flash-attention-on-rocm)\
 Jul 2025. Specific to MI300X, but a good overview of the Flash Attention implementations available for AMD GPUs at the time of writing.
 
 [AMD Ryzen AI Max 395: GTT Memory Settings](https://github.com/technigmaai/technigmaai-wiki/wiki/AMD-Ryzen-AI-Max--395:-GTT--Memory-Step%E2%80%90by%E2%80%90Step-Instructions-(Ubuntu-24.04))
