@@ -8,7 +8,7 @@ title: Niles Burbank Assorted AI Content
 
 ## Resources
 
-### AI and ROCm Deployment (mostly specific to Strix Halo APUs)
+### AI & ROCm Deployment (mostly specific to Strix Halo)
 
 [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/)\
 Actively maintained, as of Jun 2026. Containers for deploying AI workflows on Strix Halo systems running Linux, performance results, and more. Impressively comprehensive, considering that the author is doing this as a "hobby" (his term).
