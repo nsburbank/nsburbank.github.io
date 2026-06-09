@@ -6,9 +6,12 @@ title: Niles Burbank Assorted AI Content
 
 - [Inference Performance on Strix Halo](framework.md)
 
-## References
+## Resources
 
-### ROCm Resources (mostly specific to Strix Halo APUs)
+### AI and ROCm Deployment (mostly specific to Strix Halo APUs)
+
+[Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/)\
+Actively maintained, as of Jun 2026. Containers for deploying AI workflows on Strix Halo systems running Linux, performance results, and more. Impressively comprehensive, considering that the author is doing this as a "hobby" (his term).
 
 [The State of Flash Attention on ROCm]( https://zdtech.substack.com/p/the-state-of-flash-attention-on-rocm)\
 Jul 2025. Specific to MI300X, but a good overview of the Flash Attention implementations available for AMD GPUs at the time of writing.
