@@ -26,12 +26,18 @@ Gemma 4 12B is positioned as being almost as capable as Gemma 4 26B, but with a 
 
 Command lines used for user experience testing:
 
-with vLLM: ' vllm serve --model google/gemma-4-12b-it --speculative-config '{"method":"mtp","model":"google/gemma-4-12B-it-assistant","num_speculative_tokens":3}''
-with llama.cpp: './llama-server -hf unsloth/gemma-4-12B-it-qat-GGUF:UD-Q4_K_XL -ngl 999 --spec-type draft-mtp --spec-draft-n-max 3'
+with vLLM:
+```
+vllm serve --model google/gemma-4-12b-it --speculative-config '{"method":"mtp","model":"google/gemma-4-12B-it-assistant","num_speculative_tokens":3}'
+```
+with llama.cpp:
+```
+./llama-server -hf unsloth/gemma-4-12B-it-qat-GGUF:UD-Q4_K_XL -ngl 999 --spec-type draft-mtp --spec-draft-n-max 3
+```
 
 ### Notes on configuration
 
-- System HW: Framework Desktop with Ryzen AI Max+ 395 with 128GB system memory
+- System HW: Framework Desktop with Ryzen AI Max+ 395 and 128GB system memory
 - Shared memory configuration: 96GB reserved GPU memory, configured via BIOS
 - OS: Ubuntu 26.04 with upstream amdgpu driver
 - ROCm: 7.13
