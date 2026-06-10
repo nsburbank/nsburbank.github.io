@@ -22,6 +22,11 @@ Aug 2025. I’m not entirely convinced that making all physical memory available
 [Compiling VLLM from source on Strix Halo](https://community.frame.work/t/how-to-compiling-vllm-from-source-on-strix-halo/77241)\
 Oct 2025. With availability of containers and whls for upstream vLLM with ROCm support, building from source typically won’t be necessary but this is a good reference for the curious.
 
+### AMD Resources
+
+[AMD AI Developer Program](https://www.amd.com/en/developer/ai-dev-program.html)\
+Free program providing complimentary GPU cloud credits, access to training materials, access to community forums. Registering also provides a signal of interest in AI on AMD platforms.
+ 
 ### General AI Reading
 
 [Pope Leo’s AI Encyclical](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)\
