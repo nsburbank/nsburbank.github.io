@@ -24,7 +24,7 @@ Oct 2025. With availability of containers and whls for upstream vLLM with ROCm s
 
 ### AMD Resources
 
-[AMD AI Developer Program](https://www.amd.com/en/developer/ai-dev-program.html)\
+[AMD AI Developer Program](https://www.amd.com/en/developer/ai-dev-program.html?utm_medium=referral&utm_source=social&utm_campaign=aig-team-comp&utm_term=Niles)\
 Free program providing complimentary GPU cloud credits, access to training materials, access to community forums. Registering also provides a signal of interest in AI on AMD platforms.
  
 ### General AI Reading
