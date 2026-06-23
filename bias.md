@@ -1,6 +1,9 @@
 ## Cultural Bias in AI
 
-LLMs behave in ways that reflect the limitations of their training data. Most obviously, the languages they understand best are those that are most represented in the dataset used for training. Less clearly but of equal importance, LLMs embody the cultural assumptions and biases of their training content. One approach that has been proposed to quantify this is mapping LLMs onto the World Values Survey. 
+LLMs behave in ways that reflect the limitations of their training data. Most obviously, the languages they understand best are those most represented in the dataset used for training. Less clearly but also importantly, LLMs embody the cultural assumptions and biases of their training content. One approach that has been proposed to quantify this is mapping LLMs onto the World Values Survey.
+
+
+![Inglehart-Welzel World Cultural Map 2023](Images/Cultural_Map_2023.png)
 
 ### Resources
 
