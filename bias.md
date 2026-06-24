@@ -1,9 +1,14 @@
 ## Cultural Bias in AI
 
-LLMs behave in ways that reflect the limitations of their training data. Most obviously, the languages they understand best are those most represented in the dataset used for training. Less clearly but also importantly, LLMs embody the cultural assumptions and biases of their training content. One approach that has been proposed to quantify this is mapping LLMs onto the World Values Survey.
-
-
+LLMs behave in ways that reflect the limitations of their training data. Most obviously, the languages they understand best are those most represented in the dataset used for training. Less clearly but also importantly, LLMs embody the cultural assumptions and biases of their training content. One approach that has been proposed to quantify this is mapping LLMs onto the two dimensions of the Inglehart-Welzel World Cultural Map.
+<br>
 ![Inglehart-Welzel World Cultural Map 2023](Images/Cultural_Map_2023.png)
+Source: http://www.worldvaluessurvey.org/
+
+LLMs tend to cluster in a small area of the World Cultural Map, as shown below for OpenAI's GPT models. The same behaviour is apparent across other frontier-class models.
+
+![GPT models overlaid on World Cultaral Map](Images/Tao_et_al.png)\
+Source: https://arxiv.org/pdf/2311.14096
 
 ### Resources
 
