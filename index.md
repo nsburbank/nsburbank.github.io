@@ -29,5 +29,8 @@ Free program providing complimentary GPU cloud credits, access to training mater
  
 ### General AI Reading
 
+[Cultural Bias in AI](bias.md)\
+Some notes on academic work to identify cultural biases in LLMs.
+
 [Pope Leo’s AI Encyclical](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)\
 May 2026. Many summaries around, but worth reading in its entirety. References to Gandalf, Guernica and much more.
