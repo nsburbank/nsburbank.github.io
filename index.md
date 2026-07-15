@@ -34,3 +34,6 @@ Some notes on academic work to identify cultural biases in LLMs.
 
 [Pope Leo’s AI Encyclical](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)\
 May 2026. Many summaries around, but worth reading in its entirety. References to Gandalf, Guernica and much more.
+
+[Demis Hassabis on governance of frontier AI](https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age)\
+Jul 2026. A thoughtful take on the topic, although the proposed path forward is more US-centric than I would have expected.
