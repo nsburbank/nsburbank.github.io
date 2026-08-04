@@ -37,3 +37,6 @@ May 2026. Many summaries around, but worth reading in its entirety. References t
 
 [Demis Hassabis on governance of frontier AI](https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age)\
 Jul 2026. A thoughtful take on the topic, although the proposed path forward is more US-centric than I would have expected.
+
+[OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html)\
+Jun 2025. Already a bit stale, but a good counterpoint to the more flattering assessments of AI progress from inside the industry.
