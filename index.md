@@ -40,3 +40,6 @@ Jul 2026. A thoughtful take on the topic, although the proposed path forward is 
 
 [OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html)\
 Jun 2025. Already a bit stale, but a good counterpoint to the more flattering assessments of AI progress from inside the industry.
+
+[Aidan Gomez on AI governance](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)\
+Sep 2026. The co-founder of Cohere is immersed in commercial AI but outside the US-based frontier labs, giving a unique perspective.
