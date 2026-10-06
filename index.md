@@ -43,3 +43,6 @@ Jun 2025. Already a bit stale, but a good counterpoint to the more flattering as
 
 [Aidan Gomez on AI governance](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)\
 Sep 2026. The co-founder of Cohere is immersed in commercial AI but outside the US-based frontier labs, giving a unique perspective.
+
+[Yoshua Bengio on why AI agents behave badly](https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating)\
+Sep 2026. Makes the argument that AI can only be made safe by different approaches to training.
